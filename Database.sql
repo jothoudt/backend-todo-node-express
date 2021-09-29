@@ -1,4 +1,4 @@
-Database Name: new_todo
+Database_Name "new_todo"
 
 CREATE TABLE "todo" (
 "id" SERIAL PRIMARY KEY,
